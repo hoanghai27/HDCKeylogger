@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HDCKeylogger", "HDCKeylogger\HDCKeylogger.csproj", "{FA7DBE05-1D11-49E0-92E3-80F844427800}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyLog", "KeyLog\KeyLog.csproj", "{F2B7EBD6-45AF-41F2-8A47-73679D144D50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logging", "Logging\Logging.csproj", "{6FEA4B0D-A8A1-4A1A-828B-66CB0162075C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Text", "Text\Text.csproj", "{19900C1B-569F-4859-900A-34AA763CD63E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinAPI", "WinAPI\WinAPI.csproj", "{8E5C5616-C788-4CF2-96F1-0CFEEB030CBA}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://hoanghaiit.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = HDCKeylogger\\HDCKeylogger.csproj
+		SccProjectName1 = HDCKeylogger
+		SccLocalPath1 = HDCKeylogger
+		SccProjectUniqueName2 = KeyLog\\KeyLog.csproj
+		SccProjectName2 = KeyLog
+		SccLocalPath2 = KeyLog
+		SccProjectUniqueName3 = Logging\\Logging.csproj
+		SccProjectName3 = Logging
+		SccLocalPath3 = Logging
+		SccProjectUniqueName4 = Text\\Text.csproj
+		SccProjectName4 = Text
+		SccLocalPath4 = Text
+		SccProjectUniqueName5 = WinAPI\\WinAPI.csproj
+		SccProjectName5 = WinAPI
+		SccLocalPath5 = WinAPI
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA7DBE05-1D11-49E0-92E3-80F844427800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA7DBE05-1D11-49E0-92E3-80F844427800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA7DBE05-1D11-49E0-92E3-80F844427800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA7DBE05-1D11-49E0-92E3-80F844427800}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2B7EBD6-45AF-41F2-8A47-73679D144D50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B7EBD6-45AF-41F2-8A47-73679D144D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B7EBD6-45AF-41F2-8A47-73679D144D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B7EBD6-45AF-41F2-8A47-73679D144D50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FEA4B0D-A8A1-4A1A-828B-66CB0162075C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FEA4B0D-A8A1-4A1A-828B-66CB0162075C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FEA4B0D-A8A1-4A1A-828B-66CB0162075C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FEA4B0D-A8A1-4A1A-828B-66CB0162075C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19900C1B-569F-4859-900A-34AA763CD63E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19900C1B-569F-4859-900A-34AA763CD63E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19900C1B-569F-4859-900A-34AA763CD63E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19900C1B-569F-4859-900A-34AA763CD63E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E5C5616-C788-4CF2-96F1-0CFEEB030CBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E5C5616-C788-4CF2-96F1-0CFEEB030CBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E5C5616-C788-4CF2-96F1-0CFEEB030CBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E5C5616-C788-4CF2-96F1-0CFEEB030CBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

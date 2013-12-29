@@ -1,0 +1,5 @@
+D:\HoangHai\BTL\COP\HDCKeylogger\Text\bin\Debug\Text.dll
+D:\HoangHai\BTL\COP\HDCKeylogger\Text\bin\Debug\Text.pdb
+D:\HoangHai\BTL\COP\HDCKeylogger\Text\obj\Debug\Text.csprojResolveAssemblyReference.cache
+D:\HoangHai\BTL\COP\HDCKeylogger\Text\obj\Debug\Text.dll
+D:\HoangHai\BTL\COP\HDCKeylogger\Text\obj\Debug\Text.pdb

@@ -1,0 +1,7 @@
+D:\HoangHai\BTL\COP\HDCKeylogger\KeyLog\bin\Debug\KeyLog.dll
+D:\HoangHai\BTL\COP\HDCKeylogger\KeyLog\bin\Debug\KeyLog.pdb
+D:\HoangHai\BTL\COP\HDCKeylogger\KeyLog\bin\Debug\WinAPI.dll
+D:\HoangHai\BTL\COP\HDCKeylogger\KeyLog\bin\Debug\WinAPI.pdb
+D:\HoangHai\BTL\COP\HDCKeylogger\KeyLog\obj\Debug\KeyLog.csprojResolveAssemblyReference.cache
+D:\HoangHai\BTL\COP\HDCKeylogger\KeyLog\obj\Debug\KeyLog.dll
+D:\HoangHai\BTL\COP\HDCKeylogger\KeyLog\obj\Debug\KeyLog.pdb
